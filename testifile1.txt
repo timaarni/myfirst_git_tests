@@ -1,1 +1,3 @@
 Git Testings 1
+
+Muokattu versio filestä.
