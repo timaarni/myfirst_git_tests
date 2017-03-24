@@ -3,3 +3,5 @@ Git Testings 1
 Muokattu versio filestä.
 
 Muokattu issue002:ssa
+
+Edited issue004
