@@ -1,3 +1,5 @@
 Git Testings 2
 
 muokattu issue003:ssa
+
+Muokattu issue005:ssa
